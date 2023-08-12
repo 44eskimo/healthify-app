@@ -1,0 +1,35 @@
+.dietcontainer-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 68px;
+    background-image: url("https://images.unsplash.com/photo-1601446967669-511c3af65422?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80");
+    background-size: cover;
+    
+}
+.diet-subcontainer {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.dietplan2-heading {
+    color: rgb(255, 255, 255);
+    margin-bottom: 50px;
+}
+.dietplan2-list1 {
+    text-align: left;
+    margin: 25px;
+}
+li {
+    font-family: 'Josefin Sans', cursive;
+    color: white;
+}
+ul {
+    font-family: 'Josefin Sans', cursive;
+    color: white;
+}
+h3 {
+    font-family: 'Josefin Sans', cursive;
+    color: white;
+    text-align: left;
+}

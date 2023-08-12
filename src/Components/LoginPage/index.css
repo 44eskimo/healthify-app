@@ -1,0 +1,180 @@
+
+
+* {
+    margin: 0px;
+}
+
+.login-heading {
+    padding: 30px;
+    font-family: 'Josefin Sans', cursive;
+    color: #2c3b31;
+    text-align: center;
+    
+}
+
+.bt-container {
+    background-image: linear-gradient(to right top, #237e4a, #2d8d51, #389d57, #44ac5d, #51bc62, #3cc984, #23d5a6, #0ee0c6, #58e5f4, #a4e6ff, #dae9ff, #f2f2f2);
+    height: 240vh;
+    
+}
+.login-para {
+    font-family: 'Borel', cursive;
+    margin-left: 200px;
+    color: #2c3b31;
+}
+.rowing {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.login-image {
+    height: 300px;
+    border-radius: 15px;
+    margin: 40px;
+}
+.login-image2 {
+    height: 300px;
+    border-radius: 15px;
+    margin: 40px;
+}
+.login-buttons-container {
+    background-image: linear-gradient(to right top, #402f1e, #000, #402f1e, #0f2915);
+    height: 100px;
+    width: 300px;
+    border-radius: 15px;
+
+}
+.bmi-container {
+    background-color: white;
+    height: 300px;
+    width:400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+.bmi-heading {
+    font-family: 'Borel', cursive;
+}
+
+
+
+.button-68 {
+  appearance: none;
+  backface-visibility: hidden;
+  background-color: #27ae60;
+  border-radius: 8px;
+  border-style: none;
+  box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter,-apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: normal;
+  line-height: 1.5;
+  outline: none;
+  overflow: hidden;
+  padding: 13px 20px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transform: translate3d(0, 0, 0);
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: top;
+  white-space: nowrap;
+  margin: 20px;
+}
+
+.button-68:hover {
+  background-color: #1e8449;
+  opacity: 1;
+  transform: translateY(0);
+  transition-duration: .35s;
+}
+
+.button-68:active {
+  transform: translateY(2px);
+  transition-duration: .35s;
+}
+
+.button-68:hover {
+  box-shadow: rgba(39, 174, 96, .2) 0 6px 12px;
+}
+.menu{
+    color: #fff;
+    }
+.healthyLiving {
+    height: 300px;
+    margin-top: 20px;
+}
+.last-content {
+    background-image: linear-gradient(to right top, #402f1e, #000, #402f1e, #0f2915);
+    height:350px;
+    margin-top: 190px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.lastflex-1 {
+    color: #fff;
+    font-family: 'Ysabeau SC', 'sans-serif';
+    margin-left: 140px;
+    margin-top: 30px;
+}
+.lastflex1-heading {
+    margin-left: 170px;
+}
+.lastcontent-first-icon {
+    margin-left: 140px;
+}
+.lastcontent-third-icon {
+    margin-left: 20px;
+}
+.lastcontent-firstpara {
+    width: 210px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.lastflex-2 {
+    color: #fff;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.lastflex-2-font {
+    font-family: 'Ysabeau SC', 'sans-serif';
+    margin-left: 30px;
+}
+.about-yoga {
+    text-decoration: none;
+    margin-top: 50px;
+}
+.styling {
+    list-style-type: none;
+    margin-top: 40px;
+    margin-right: 30px;
+}
+.lastflex-3 {
+    color: white;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.lastflex3-para {
+    margin-top: 60px;
+    width: 200px;
+}
+.home-icon {
+    padding-right: 2px;
+    margin-bottom: 4px;
+
+}
+.lastflex3-heading {
+    margin-left: 30px;
+}
+    

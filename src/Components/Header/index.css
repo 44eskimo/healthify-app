@@ -1,0 +1,28 @@
+.coloring {
+    color: white;
+}
+.boot-button {
+    margin-left: 20px;
+    color: #000;
+}
+.nav-font {
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+.nav-logo {
+    height: 50px;
+    
+    background-color: antiquewhite;
+    margin-left: 20px;
+
+}
+.nav-marg {
+    margin-left: 530px;
+}
+.account-button {
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    padding: 5px;
+}

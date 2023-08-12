@@ -1,0 +1,21 @@
+.morning-container {
+    height: 390vh;
+    background-image: linear-gradient(to right, #000000, #231713, #342c18, #324729, #006255);
+}
+.columning {
+    margin-top: 67px;
+    
+}
+.morning-heading1 {
+   
+    color: white;
+}
+.morning-headings {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 20px;
+}
+.morningcontainer-list {
+    text-align: left;
+    margin: 25px;
+}

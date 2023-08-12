@@ -1,0 +1,54 @@
+.dietplan1-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 65px;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #9ea6e6, #a4b1ea, #acbced, #c5cbf1, #dadcf5, #eeedfa, #ffffff);}
+.dietplan-heading {
+    margin-top: 200px;
+    color: black;
+}
+.dietplan-heading2 {
+    color: black;
+}
+.dietplan1-para {
+    color: black;
+}
+.dietplan1-img {
+    height: 200px;
+    border-radius: 15px 50px 30px; 
+}
+.diet1-list {
+    text-align: left;
+    width: 70%;
+    font-family: 'Josefin Sans', cursive;
+    margin-top: 25px;
+
+}
+table {
+    border: 1px solid black;
+    width: 70%;
+    font-family: 'Josefin Sans', cursive;
+
+}
+th {
+    border: 1px solid black;
+    font-family: 'Josefin Sans', cursive;
+
+}
+td {
+    border: 1px solid black;
+    font-family: 'Josefin Sans', cursive;
+
+}
+.sample-menus {
+    font-family: 'Josefin Sans', cursive;
+    color: black;
+}
+.diet1-list {
+    color: black;
+}
+.dietlist1-container {
+    margin-left: 300px;
+}

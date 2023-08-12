@@ -3,8 +3,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+Initially on first page - two main buttons 1 Login & Register
+- after clicking on Login we need to enter id as "raj" & password as "12345" as created it with a condition or it will show an alert saying its invalid.
 
+- after login customers enter the dashboard where they can enter different sections & also click on the arrow button next to Resources which is on the Header & navigate to the appropriate diet plans & morning routines 
 
+ - customers can check their body's bmi index by entering the 'Calories Section'.
+
+- customers can read daily tips by entering the dailytips section.
+
+- customers can entertain themselves by clicking on "Click for another joke" button for a random joke made for entertainment on dashboard.
+
+- customers can book any tests they want to, by entering 'Test Booking Section'
+
+- customers can logout clicking on arrow button below account button.
 
 
 

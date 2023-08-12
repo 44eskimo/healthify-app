@@ -1,0 +1,7 @@
+.register-buttons-container {
+    background-image: linear-gradient(to right top, #402f1e, #000, #402f1e, #0f2915);
+    height: 500px;
+    width: 300px;
+    border-radius: 15px;
+    padding-right: 20px;
+}

@@ -1,0 +1,78 @@
+.loginContainer-buttons-container {
+    background-image: linear-gradient(to right top, #402f1e, #000, #402f1e, #0f2915);
+    height: 200px;
+    width: 300px;
+    border-radius: 15px;
+    padding-right: 20px;
+}
+.checkbox-label {
+    color: #fff;
+}
+
+.center-img1 {
+    height: 150px;
+    border-radius: 10px;
+    
+}
+.center-img2 {
+    height: 150px;
+
+    border-radius: 10px;
+}
+.center-img3 {
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    
+}
+.middle-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 150px;
+}
+.middle-para {
+    font-family: 'Josefin Sans', cursive;
+    color: #000000;
+    width: 130px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.middle-para2 {
+    font-family: 'Josefin Sans', cursive;
+    color: #000000;
+    width: 170px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.middle-para3 {
+    font-family: 'Josefin Sans', cursive;
+    color: #000000;
+    width: 150px;
+    margin-top: 10px;
+}
+.middle-para4 {
+    font-family: 'Josefin Sans', cursive;
+    color: #000000;
+    width: 150px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.flex-1 {
+    margin-left: 120px;
+}
+.flex-2 {
+    margin-left: 80px;
+    margin-bottom: 60px;
+}
+.flex-3 {
+    margin-left: 80px;
+    margin-bottom: 30px;
+
+}
+.flex-4 {
+    margin-left: 80px;
+    margin-bottom: 40px;
+
+}

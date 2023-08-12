@@ -1,0 +1,276 @@
+.dashboard-heading {
+    
+    font-family: 'Josefin Sans', cursive;
+    color: #2c3b31;
+    margin-top: 67px;
+}
+
+.dashboard-rowings {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+.dashboard-bt-container {
+    background-image: linear-gradient(to right top, #237e4a, #2d8d51, #389d57, #44ac5d, #51bc62, #3cc984, #23d5a6, #0ee0c6, #58e5f4, #a4e6ff, #dae9ff, #f2f2f2);
+    height: 380vh;
+    
+}
+.suitcase-icon {
+    padding: 2px;
+    margin: 20px;
+}
+.dashboard-para {
+    font-family: 'Josefin Sans', cursive;
+    color: #2c3b31;
+}
+.dashboard-flex-upper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.dashboard-flex-1 {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.dashboard-para-init {
+    font-family: 'Josefin Sans', cursive;
+    color: #2c3b31;
+    width: 170px;
+}
+.flex-img1 {
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.dashboard-checkup {
+    height: 200px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.dashboard-tips-image {
+    height: 200px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+
+
+.button-33 {
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+.dashboard-para-2 {
+    font-family: 'Josefin Sans', cursive;
+    color: #2c3b31;
+    width: 210px;
+}
+.happy-clients {
+    color: tomato;
+}
+.dashboard-para-3 {
+    font-family: 'Josefin Sans', cursive;
+    color: #2c3b31;
+    width: 170px;
+}
+.margin-upper {
+    margin-top: 60px;
+}
+.dashboard-lastcontent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.dashboard-last-calories {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+}
+.dashboard-calories-heading {
+    margin: 20px;
+    font-family: 'Josefin Sans', cursive;
+    color: #2c3b31;
+    width: 170px;
+}
+.dashboard-tests-heading {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    font-family: 'Josefin Sans', cursive;
+    color: #2c3b31;
+    width: 170px;
+}
+.dashboard-calorie {
+    height: 190px;
+    border-radius: 15px;
+}
+.dashboard-test-container {
+    margin-left: 50px;
+}
+
+
+
+
+.button-24 {
+    background: #559927;
+    border: 1px solid #12d41c;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+  }
+  
+  .button-24:hover,
+  .button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #ffffff;
+  }
+  
+  .button-24:active {
+    opacity: .5;
+  }
+.dashboard-tests-heading-3 {
+    width: 200px;
+    margin-left: 40px;
+}
+.daily-tips-container {
+    margin-left: 130px;
+}
+.last-buttons-container {
+    display: flex;
+}
+.columning {
+    margin: 40px;
+}
+.button-40 {
+    background-color: #111827;
+    border: 1px solid transparent;
+    border-radius: .75rem;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    flex: 0 0 auto;
+    font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.125rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    padding: .75rem 1.2rem;
+    text-align: center;
+    text-decoration: none #6B7280 solid;
+    text-decoration-thickness: auto;
+    transition-duration: .2s;
+    transition-property: background-color,border-color,color,fill,stroke;
+    transition-timing-function: cubic-bezier(.4, 0, 0.2, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: auto;
+    margin-top: 20px;
+  }
+  
+  .button-40:hover {
+    background-color: #374151;
+  }
+  
+  .button-40:focus {
+    box-shadow: none;
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+  }
+  
+  @media (min-width: 768px) {
+    .button-40 {
+      padding: .75rem 1.5rem;
+    }
+  }
+  .last-buttons-para {
+    font-family: 'Josefin Sans', cursive;
+    font-size: larger;
+  }
+  .jokes-img {
+    height: 350px;
+    border-radius: 20px;
+  }
+  .jokes-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 500px;
+    margin-left: 100px;
+    border: 1px solid black;
+    font-size: 24px;
+    color: #111827;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .joke-img {
+    height: 200px;
+    margin-left: 50px;
+    border-radius: 15px;
+    margin-top: 20px;
+  }
+  .footer {
+    background-image: url('https://img.freepik.com/free-photo/travel-concept-close-up-portrait-young-beautiful-attractive-redhair-girl-wtih-trendy-hat-sunglass-smiling-blue-pastel-background-copy-space_1258-128516.jpg?w=826&t=st=1691855925~exp=1691856525~hmac=fa58cabbd16c48723832e5454caca337088dc91bffe91c15b48310f5b6a5d3c2');
+    height: 400px;
+    background-size: cover;
+    width: 100%;
+    padding: 30px;
+  }
+  .footer-text {
+    font-size: 64px;
+    
+  }
+  .healthy-footer-img {
+    height: 250px;
+    border-radius: 15px;
+    
+  }

@@ -1,0 +1,11 @@
+.notfound-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.not-found {
+    font-family: 'Josefin Sans', cursive;
+    margin-top: 70px;
+    color: black;
+}
