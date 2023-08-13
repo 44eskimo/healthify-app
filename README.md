@@ -6,15 +6,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Initially on first page - two main buttons 1 Login & Register
 - after clicking on Login we need to enter id as "raj" & password as "12345" as created it with a condition or it will show an alert saying its invalid.
 
-- after login customers enter the dashboard where they can enter different sections & also click on the arrow button next to Resources which is on the Header & navigate to the appropriate diet plans & morning routines 
+- after login customers enter the dashboard where they can enter different sections & also click on the arrow button next to Resources which is on the Header & navigate to the appropriate diet plans & morning routines
+![login page](https://github.com/44eskimo/healthify-app/assets/114806355/6c44b6b5-cddd-4fa1-862c-d25bfcf117a6)
 
  - customers can check their body's bmi index by entering the 'Calories Section'.
+![Calories section](https://github.com/44eskimo/healthify-app/assets/114806355/f219554b-1731-4713-9f2a-a9b76f2c61c5)
 
 - customers can read daily tips by entering the dailytips section.
 
 - customers can entertain themselves by clicking on "Click for another joke" button for a random joke made for entertainment on dashboard.
+![entertainment on dashboard](https://github.com/44eskimo/healthify-app/assets/114806355/bf7e7533-a502-4379-81fd-6e78ae9b7ca3)
 
 - customers can book any tests they want to, by entering 'Test Booking Section'
+![test booking section](https://github.com/44eskimo/healthify-app/assets/114806355/11ad4aea-96b6-46fe-9e8b-5cb43c2d728a)
 
 - customers can logout clicking on arrow button below account button.
 
